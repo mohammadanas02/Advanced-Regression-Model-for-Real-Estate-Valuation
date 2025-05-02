@@ -1,4 +1,4 @@
-# House-Price-Prediction-Model
+# Advanced Regression Model for Real Estate Valuation
 
 This project implements a complete **Machine Learning (ML) pipeline** using **ZenML** and MLOps principles to predict house prices based on various features. The model is deployed using **Streamlit**, allowing users to interact with the prediction system through a simple web interface.
 
